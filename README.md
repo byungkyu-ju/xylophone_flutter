@@ -2,7 +2,7 @@
 
 A new xylophone application.
 
-![image](xylophone.png)
+<img src="xylophone.png" width="100px">
 
 
 ## Getting Started
